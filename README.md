@@ -269,7 +269,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 # OBJECT  DETECTED:
 
-<img width="457" height="226" alt="image" src="https://github.com/user-attachments/assets/50f3d7ae-604c-4c6b-bfc8-29297c315c02" />
+<img width="456" height="206" alt="image" src="https://github.com/user-attachments/assets/90dd05d9-cec3-469a-91ba-9cc8f4063397" />
+
 
 
 ## Result
