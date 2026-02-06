@@ -264,12 +264,13 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## OUTPUT:
 # OBJECT NOT DETECTED:
+![WhatsApp Image 2026-02-03 at 11 03 33 AM](https://github.com/user-attachments/assets/b25ceec2-3cac-4b64-b36b-a0c9bb2c4616)
 
-<img width="402" height="685" alt="image" src="https://github.com/user-attachments/assets/cbae552b-bc3e-43f6-affc-2db525027f87" />
 
 # OBJECT  DETECTED:
 
-<img width="456" height="206" alt="image" src="https://github.com/user-attachments/assets/90dd05d9-cec3-469a-91ba-9cc8f4063397" />
+![WhatsApp Image 2026-02-03 at 11 03 21 AM](https://github.com/user-attachments/assets/64db2d10-2d56-417f-90ad-86e716c019ed)
+
 
 
 
